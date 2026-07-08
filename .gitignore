@@ -1,0 +1,29 @@
+# Build outputs
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test and temporary files
+*.tmp
+*.log
+*.cache
+*.test
+*.out
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+vendor/
+
+# Environment files
+.env
+.env.*
